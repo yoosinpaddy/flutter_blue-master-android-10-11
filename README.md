@@ -126,7 +126,8 @@ In the **android/app/src/main/AndroidManifest.xml** let’s add:
 ```xml 
 	 <uses-permission android:name="android.permission.BLUETOOTH" />  
 	 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />  
-	 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>  
+	 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>  	 
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
  <application
 ```
 #### **IOS**
