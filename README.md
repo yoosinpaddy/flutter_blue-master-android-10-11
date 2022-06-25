@@ -7,7 +7,7 @@
 </p>
 <br><br>
 
-## Introduction
+## Introduction forked from [FlutterBlue](https://github.com/pauldemarco/flutter_blue/flutter_blue)
 
 FlutterBlue is a bluetooth plugin for [Flutter](https://flutter.dev), a new app SDK to help developers build modern multi-platform apps.
 
